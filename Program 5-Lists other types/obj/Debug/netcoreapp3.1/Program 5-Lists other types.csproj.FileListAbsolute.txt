@@ -1,0 +1,12 @@
+D:\C#\C# 101\Program 5-Lists other types\obj\Debug\netcoreapp3.1\Program 5-Lists other types.AssemblyInfoInputs.cache
+D:\C#\C# 101\Program 5-Lists other types\obj\Debug\netcoreapp3.1\Program 5-Lists other types.AssemblyInfo.cs
+D:\C#\C# 101\Program 5-Lists other types\obj\Debug\netcoreapp3.1\Program 5-Lists other types.csproj.CoreCompileInputs.cache
+D:\C#\C# 101\Program 5-Lists other types\bin\Debug\netcoreapp3.1\Program 5-Lists other types.exe
+D:\C#\C# 101\Program 5-Lists other types\bin\Debug\netcoreapp3.1\Program 5-Lists other types.deps.json
+D:\C#\C# 101\Program 5-Lists other types\bin\Debug\netcoreapp3.1\Program 5-Lists other types.runtimeconfig.json
+D:\C#\C# 101\Program 5-Lists other types\bin\Debug\netcoreapp3.1\Program 5-Lists other types.runtimeconfig.dev.json
+D:\C#\C# 101\Program 5-Lists other types\bin\Debug\netcoreapp3.1\Program 5-Lists other types.dll
+D:\C#\C# 101\Program 5-Lists other types\bin\Debug\netcoreapp3.1\Program 5-Lists other types.pdb
+D:\C#\C# 101\Program 5-Lists other types\obj\Debug\netcoreapp3.1\Program 5-Lists other types.dll
+D:\C#\C# 101\Program 5-Lists other types\obj\Debug\netcoreapp3.1\Program 5-Lists other types.pdb
+D:\C#\C# 101\Program 5-Lists other types\obj\Debug\netcoreapp3.1\Program 5-Lists other types.genruntimeconfig.cache
